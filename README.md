@@ -19,3 +19,15 @@
 <meta name="description" content="Free online resume generator">
 <meta name="keywords" content="Resume, Generator, Free, Curriculum Vitae, CV, aboutme">
 ```
+
+* 推广材料搜索，以下两个材料将作为我的参考
+https://github.com/goabstract/Marketing-for-Engineers
+https://github.com/portable-cto/side-project-marketing
+
+#### Product Hunt
+
+https://www.producthunt.com/
+https://blog.producthunt.com/how-to-launch-on-product-hunt-7c1843e06399
+
+- [x] 注册,登陆
+- [x] 作品发布
