@@ -31,3 +31,11 @@ https://blog.producthunt.com/how-to-launch-on-product-hunt-7c1843e06399
 
 - [x] 注册,登陆
 - [x] 作品发布
+
+第一天成果检查，获得了3个upvote以及两个新的访问用户
+
+#### Quora
+
+进入quora，然后搜索相关的话题,回答了一部分，但是遇到了quora的提醒，涉嫌spam，因此暂时停止继续回答
+https://www.quora.com/search?q=resume%20generator
+
